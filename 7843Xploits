@@ -1,0 +1,216 @@
+-- Instances:
+
+local fjdghsgjhre = Instance.new("ScreenGui")
+local d5dahh7gd = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local UIGradient = Instance.new("UIGradient")
+local topsjghegf = Instance.new("Frame")
+local fjkdjfgkegkfh = Instance.new("TextLabel")
+local tahfjgjkhgjw = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local byjhegjfhgjw = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local creduejuhgjt = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local mainfrakjwhgkjh = Instance.new("Frame")
+local butjehgfjhgaw = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local credkjhwgkjh = Instance.new("Frame")
+local cregefjhg = Instance.new("TextLabel")
+
+--Properties:
+
+fjdghsgjhre.Name = "fjdghsgjhre"
+fjdghsgjhre.Parent = game.CoreGui
+fjdghsgjhre.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+d5dahh7gd.Name = "d5dahh7gd"
+d5dahh7gd.Parent = fjdghsgjhre
+d5dahh7gd.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+d5dahh7gd.Position = UDim2.new(0, 424, 0, 180)
+d5dahh7gd.Size = UDim2.new(0, 431, 0, 232)
+
+UICorner.Parent = d5dahh7gd
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
+UIGradient.Parent = d5dahh7gd
+
+topsjghegf.Name = "topsjghegf"
+topsjghegf.Parent = d5dahh7gd
+topsjghegf.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+topsjghegf.BackgroundTransparency = 1.000
+topsjghegf.Size = UDim2.new(0, 431, 0, 24)
+
+fjkdjfgkegkfh.Name = "fjkdjfgkegkfh"
+fjkdjfgkegkfh.Parent = topsjghegf
+fjkdjfgkegkfh.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+fjkdjfgkegkfh.BackgroundTransparency = 1.000
+fjkdjfgkegkfh.Position = UDim2.new(0.0185614843, 0, 0, 0)
+fjkdjfgkegkfh.Size = UDim2.new(0.965197206, 0, 0.958333313, 0)
+fjkdjfgkegkfh.Font = Enum.Font.SciFi
+fjkdjfgkegkfh.Text = "7843 Xploits Chat Bypasser"
+fjkdjfgkegkfh.TextColor3 = Color3.fromRGB(170, 0, 0)
+fjkdjfgkegkfh.TextScaled = true
+fjkdjfgkegkfh.TextSize = 14.000
+fjkdjfgkegkfh.TextStrokeTransparency = 0.000
+fjkdjfgkegkfh.TextWrapped = true
+fjkdjfgkegkfh.TextXAlignment = Enum.TextXAlignment.Left
+
+tahfjgjkhgjw.Name = "tahfjgjkhgjw"
+tahfjgjkhgjw.Parent = d5dahh7gd
+tahfjgjkhgjw.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+tahfjgjkhgjw.Position = UDim2.new(0, 0, 0, 22)
+tahfjgjkhgjw.Size = UDim2.new(0, 105, 0, 209)
+
+UICorner_2.Parent = tahfjgjkhgjw
+
+byjhegjfhgjw.Name = "byjhegjfhgjw"
+byjhegjfhgjw.Parent = tahfjgjkhgjw
+byjhegjfhgjw.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+byjhegjfhgjw.Size = UDim2.new(1, 0, 0.239234447, 0)
+byjhegjfhgjw.Font = Enum.Font.SciFi
+byjhegjfhgjw.Text = "Chat Bypass"
+byjhegjfhgjw.TextColor3 = Color3.fromRGB(170, 0, 0)
+byjhegjfhgjw.TextScaled = true
+byjhegjfhgjw.TextSize = 14.000
+byjhegjfhgjw.TextStrokeTransparency = 0.000
+byjhegjfhgjw.TextWrapped = true
+
+UICorner_3.Parent = byjhegjfhgjw
+
+creduejuhgjt.Name = "creduejuhgjt"
+creduejuhgjt.Parent = tahfjgjkhgjw
+creduejuhgjt.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+creduejuhgjt.Position = UDim2.new(0, 0, 0.234449759, 0)
+creduejuhgjt.Size = UDim2.new(1, 0, 0.239234447, 0)
+creduejuhgjt.Font = Enum.Font.SciFi
+creduejuhgjt.Text = "Credits"
+creduejuhgjt.TextColor3 = Color3.fromRGB(170, 0, 0)
+creduejuhgjt.TextScaled = true
+creduejuhgjt.TextSize = 14.000
+creduejuhgjt.TextStrokeTransparency = 0.000
+creduejuhgjt.TextWrapped = true
+
+UICorner_4.Parent = creduejuhgjt
+
+mainfrakjwhgkjh.Name = "mainfrakjwhgkjh"
+mainfrakjwhgkjh.Parent = d5dahh7gd
+mainfrakjwhgkjh.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+mainfrakjwhgkjh.BackgroundTransparency = 1.000
+mainfrakjwhgkjh.Position = UDim2.new(0, 104, 0, 21)
+mainfrakjwhgkjh.Size = UDim2.new(0, 325, 0, 210)
+
+butjehgfjhgaw.Name = "butjehgfjhgaw"
+butjehgfjhgaw.Parent = mainfrakjwhgkjh
+butjehgfjhgaw.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+butjehgfjhgaw.Position = UDim2.new(0.0184615403, 0, 0.0190476198, 0)
+butjehgfjhgaw.Size = UDim2.new(0.92923075, 0, 0.200000003, 0)
+butjehgfjhgaw.Font = Enum.Font.SciFi
+butjehgfjhgaw.Text = "Enable Chat Bypasser"
+butjehgfjhgaw.TextColor3 = Color3.fromRGB(170, 0, 0)
+butjehgfjhgaw.TextScaled = true
+butjehgfjhgaw.TextSize = 14.000
+butjehgfjhgaw.TextStrokeTransparency = 0.000
+butjehgfjhgaw.TextWrapped = true
+
+UICorner_5.Parent = butjehgfjhgaw
+
+credkjhwgkjh.Name = "credkjhwgkjh"
+credkjhwgkjh.Parent = d5dahh7gd
+credkjhwgkjh.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+credkjhwgkjh.BackgroundTransparency = 1.000
+credkjhwgkjh.Position = UDim2.new(0, 104, 0, 21)
+credkjhwgkjh.Size = UDim2.new(0, 326, 0, 209)
+credkjhwgkjh.Visible = false
+
+cregefjhg.Name = "cregefjhg"
+cregefjhg.Parent = credkjhwgkjh
+cregefjhg.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+cregefjhg.BackgroundTransparency = 1.000
+cregefjhg.Size = UDim2.new(1, 0, 1, 0)
+cregefjhg.Font = Enum.Font.SourceSans
+cregefjhg.Text = "This Gui Was Made By 7843 Xploits Aka Weston7843. If You Find Any Errors Or Suggestions, Reach Me On Discord By Weston#7843"
+cregefjhg.TextColor3 = Color3.fromRGB(170, 0, 0)
+cregefjhg.TextScaled = true
+cregefjhg.TextSize = 14.000
+cregefjhg.TextStrokeTransparency = 0.000
+cregefjhg.TextWrapped = true
+cregefjhg.TextYAlignment = Enum.TextYAlignment.Top
+
+-- Scripts:
+
+local function LZKC_fake_script() -- byjhegjfhgjw.hkjsehgkjhw 
+	local script = Instance.new('LocalScript', byjhegjfhgjw)
+
+	local main = script.Parent.Parent.Parent.mainfrakjwhgkjh
+	local credits = script.Parent.Parent.Parent.credkjhwgkjh
+	
+	script.Parent.Parent.byjhegjfhgjw.MouseButton1Click:Connect(function()
+		main.Visible = true
+		credits.Visible = false
+	end)
+end
+coroutine.wrap(LZKC_fake_script)()
+local function EPAEO_fake_script() -- creduejuhgjt.hkjsehgkjhw 
+	local script = Instance.new('LocalScript', creduejuhgjt)
+
+	local main = script.Parent.Parent.Parent.mainfrakjwhgkjh
+	local credits = script.Parent.Parent.Parent.credkjhwgkjh
+	
+	script.Parent.Parent.creduejuhgjt.MouseButton1Click:Connect(function()
+		main.Visible = false
+		credits.Visible = true
+	end)
+end
+coroutine.wrap(EPAEO_fake_script)()
+local function NEAGCQ_fake_script() -- butjehgfjhgaw.LocalScript 
+	local script = Instance.new('LocalScript', butjehgfjhgaw)
+
+	script.Parent.Parent.butjehgfjhgaw.MouseButton1Click:Connect(function()
+		pcall(function() function igopjitler(kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031)local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) end function santutan(Lexarv218712302697250141607517614031977414)local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) end local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li function igopjitler(kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031)local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) end local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li loadstring("\108\111\99\97\108\32\66\121\112\97\115\115\101\115\32\61\32\123\13\10\32\32\32\32\91\34\98\105\116\99\104\34\93\32\61\32\34\98\105\123\123\97\105\101\105\120\122\118\122\120\58\116\99\104\125\125\34\44\13\10\32\32\32\32\91\34\99\111\99\107\34\93\32\61\32\34\99\111\123\123\97\105\101\105\120\122\118\122\120\58\99\107\125\125\34\44\13\10\32\32\32\32\91\34\99\117\110\116\34\93\32\61\32\34\99\117\123\123\97\105\101\105\120\122\118\122\120\58\110\116\125\125\34\44\13\10\32\32\32\32\91\34\102\97\103\103\111\116\34\93\32\61\32\34\102\97\123\123\97\105\101\105\120\122\118\122\120\58\103\103\111\116\125\125\34\44\13\10\32\32\32\32\91\34\102\117\99\107\34\93\32\61\32\34\102\117\123\123\97\105\101\105\120\122\118\122\120\58\99\107\125\125\34\44\13\10\32\32\32\32\91\34\103\97\121\108\111\114\100\34\93\32\61\32\34\103\97\121\108\111\114\123\123\97\105\101\105\120\122\118\122\120\58\100\125\125\34\44\13\10\32\32\32\32\91\34\110\105\103\103\97\34\93\32\61\32\34\110\105\123\123\97\105\101\105\120\122\118\122\120\58\103\103\97\125\125\34\44\13\10\32\32\32\32\91\34\110\105\103\103\101\114\34\93\32\61\32\34\110\105\123\123\97\105\101\105\120\122\118\122\120\58\103\103\101\114\125\125\34\44\13\10\32\32\32\32\91\34\112\105\115\115\34\93\32\61\32\34\112\123\123\97\105\101\105\120\122\118\122\120\58\105\115\115\125\125\34\44\13\10\32\32\32\32\91\34\112\101\110\105\115\34\93\32\61\32\34\112\101\123\123\97\105\101\105\120\122\118\122\120\58\110\105\115\125\125\34\44\13\10\32\32\32\32\91\34\112\117\115\115\121\34\93\32\61\32\34\112\117\115\123\123\97\105\101\105\120\122\118\122\120\58\115\121\125\125\34\44\13\10\32\32\32\32\91\34\115\104\105\116\34\93\32\61\32\34\115\104\123\123\97\105\101\105\120\122\118\122\120\58\105\116\125\125\34\44\13\10\32\32\32\32\91\34\115\108\117\116\34\93\32\61\32\34\115\108\123\123\97\105\101\105\120\122\118\122\120\58\117\116\125\125\34\44\13\10\32\32\32\32\91\34\119\104\111\114\101\34\93\32\61\32\34\119\104\111\123\123\97\105\101\105\120\122\118\122\120\58\114\101\125\125\34\44\13\10\32\32\32\32\91\34\100\105\115\99\111\114\100\34\93\32\61\32\34\100\105\115\99\111\123\123\97\105\101\105\120\122\118\122\120\58\114\100\125\125\34\44\13\10\32\32\32\32\91\34\107\121\115\34\93\32\61\32\34\107\123\123\97\105\101\105\120\122\118\122\120\58\121\115\125\125\34\44\13\10\32\32\32\32\91\34\99\117\109\34\93\32\61\32\34\99\123\123\97\105\101\105\120\122\118\122\120\58\117\109\125\125\34\44\13\10\32\32\32\32\91\34\115\101\120\34\93\32\61\32\34\115\101\123\123\97\105\101\105\120\122\118\122\120\58\120\125\125\34\44\13\10\32\32\32\32\91\34\100\105\99\107\34\93\32\61\32\34\100\105\123\123\97\105\101\105\120\122\118\122\120\58\99\107\125\125\34\44\13\10\125\13\10\13\10\108\111\99\97\108\32\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101\32\61\32\103\97\109\101\58\71\101\116\83\101\114\118\105\99\101\40\34\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101\34\41\13\10\108\111\99\97\108\32\82\101\109\111\116\101\32\61\32\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101\58\70\105\110\100\70\105\114\115\116\67\104\105\108\100\40\34\83\97\121\77\101\115\115\97\103\101\82\101\113\117\101\115\116\34\44\32\116\114\117\101\41\13\10\13\10\108\111\99\97\108\32\67\104\97\116\66\121\112\97\115\115\59\32\67\104\97\116\66\121\112\97\115\115\32\61\32\104\111\111\107\109\101\116\97\109\101\116\104\111\100\40\82\101\109\111\116\101\44\32\34\95\95\110\97\109\101\99\97\108\108\34\44\32\102\117\110\99\116\105\111\110\40\115\101\108\102\44\32\46\46\46\41\13\10\32\32\32\32\108\111\99\97\108\32\77\101\116\104\111\100\32\61\32\103\101\116\110\97\109\101\99\97\108\108\109\101\116\104\111\100\40\41\13\10\32\32\32\32\108\111\99\97\108\32\65\114\103\117\109\101\110\116\115\32\61\32\123\46\46\46\125\13\10\32\32\32\32\13\10\32\32\32\32\105\102\32\115\101\108\102\32\61\61\32\82\101\109\111\116\101\32\97\110\100\32\77\101\116\104\111\100\32\61\61\32\34\70\105\114\101\83\101\114\118\101\114\34\32\116\104\101\110\13\10\32\32\32\32\32\32\32\32\108\111\99\97\108\32\77\101\115\115\97\103\101\32\61\32\65\114\103\117\109\101\110\116\115\91\49\93\13\10\32\32\32\32\32\32\32\32\108\111\99\97\108\32\83\112\108\105\116\32\61\32\77\101\115\115\97\103\101\58\115\112\108\105\116\40\34\32\34\41\13\10\32\32\32\32\32\32\32\32\108\111\99\97\108\32\70\105\110\97\108\77\101\115\115\97\103\101\32\61\32\34\34\13\10\13\10\32\32\32\32\32\32\32\32\102\111\114\32\95\44\32\120\32\105\110\32\110\101\120\116\44\32\83\112\108\105\116\32\100\111\13\10\32\32\32\32\32\32\32\32\32\32\32\32\102\111\114\32\95\44\32\66\121\112\97\115\115\32\105\110\32\110\101\120\116\44\32\66\121\112\97\115\115\101\115\32\100\111\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\105\102\32\120\58\108\111\119\101\114\40\41\32\61\61\32\95\32\116\104\101\110\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\105\102\32\120\58\117\112\112\101\114\40\41\32\126\61\32\120\32\116\104\101\110\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\77\101\115\115\97\103\101\32\61\32\77\101\115\115\97\103\101\58\103\115\117\98\40\120\44\32\66\121\112\97\115\115\41\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\70\105\110\97\108\77\101\115\115\97\103\101\32\61\32\77\101\115\115\97\103\101\32\46\46\32\34\32\110\103\34\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\101\108\115\101\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\77\101\115\115\97\103\101\32\61\32\77\101\115\115\97\103\101\58\103\115\117\98\40\120\44\32\66\121\112\97\115\115\41\58\117\112\112\101\114\40\41\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\70\105\110\97\108\77\101\115\115\97\103\101\32\61\32\77\101\115\115\97\103\101\58\103\115\117\98\40\120\44\32\66\121\112\97\115\115\41\58\117\112\112\101\114\40\41\32\46\46\32\34\32\110\103\34\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\101\110\100\13\10\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\32\101\110\100\13\10\32\32\32\32\32\32\32\32\32\32\32\32\101\110\100\13\10\32\32\32\32\32\32\32\32\101\110\100\13\10\32\32\32\32\32\32\32\32\13\10\32\32\32\32\32\32\32\32\105\102\32\70\105\110\97\108\77\101\115\115\97\103\101\32\126\61\32\34\34\32\116\104\101\110\13\10\32\32\32\32\32\32\32\32\32\32\32\32\65\114\103\117\109\101\110\116\115\91\49\93\32\61\32\70\105\110\97\108\77\101\115\115\97\103\101\13\10\32\32\32\32\32\32\32\32\101\110\100\13\10\32\32\32\32\32\32\32\32\13\10\32\32\32\32\32\32\32\32\114\101\116\117\114\110\32\67\104\97\116\66\121\112\97\115\115\40\115\101\108\102\44\32\117\110\112\97\99\107\40\65\114\103\117\109\101\110\116\115\41\41\13\10\32\32\32\32\101\110\100\13\10\32\32\32\32\13\10\32\32\32\32\114\101\116\117\114\110\32\67\104\97\116\66\121\112\97\115\115\40\115\101\108\102\44\32\46\46\46\41\13\10\101\110\100\41\13\10")() local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li function santutan(Lexarv218712302697250141607517614031977414)local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) end local kyileeeeilovemuhaaaaaaaa36407651374092487418334661803562031 = (5*3-2/8+9*2/9+8*3) local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li local a165577Lexarv238680272774811Lexarv225914252193307Lexarv241557852933316Lexarv238268041107831Lexarv239241161664395Lexarontop45670914242513Lexarv246110412866787jitlerontop16318931669594jitlerigopworldwide9892521986976Igopthejitler843422321294Jitlerishandsome1972745 = IIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1liIIiIl1ii1lli1l1i1li  end)
+		script.Parent.Parent.Parent.Parent.Parent.fjdghsgjhre:Destroy()
+	end)
+end
+coroutine.wrap(NEAGCQ_fake_script)()
+local function XWGRVXU_fake_script() -- d5dahh7gd.drahkejhk 
+	local script = Instance.new('LocalScript', d5dahh7gd)
+
+	local UIS = game:GetService("UserInputService")
+	function drag (Frame)
+		dragToggle = nil
+		dragSpeed = 0.23
+		dragInput = nil
+		dragStart = nil
+		dragPos = nil
+		function updateInput(input)
+			Delta = input.Position - dragStart
+			Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+			game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.25), {Position = Position}):Play()
+		end
+		Frame.InputBegan:Connect(function(input)
+			if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+				dragToggle = true
+				dragStart = input.Position
+				startPos = Frame.Position
+				input.Changed:Connect(function()
+					if input.UserInputState == Enum.UserInputState.End then
+						dragToggle = false
+					end
+				end)
+			end
+		end)
+		Frame.InputChanged:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+				dragInput = input
+			end
+		end)
+		game:GetService("UserInputService").InputChanged:Connect(function(input)
+			if input == dragInput and dragToggle then
+				updateInput(input)
+			end
+		end)
+	end
+	drag(script.Parent)
+	
+end
+coroutine.wrap(XWGRVXU_fake_script)()
